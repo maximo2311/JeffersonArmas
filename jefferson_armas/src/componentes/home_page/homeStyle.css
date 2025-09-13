@@ -1,0 +1,46 @@
+.mainHome {
+    flex-direction: column;
+}
+.Contenedor_foto {
+    width: 50%;
+    overflow: hidden;
+    margin-top: 2rem;
+    border-radius: 60%;
+    aspect-ratio: 1;
+    box-shadow: black 0.5rem 0.5rem;
+}
+
+.Contenedor_foto img {
+    width: 100%;
+}
+
+.mainHome h2 {
+    font-size: 2rem;
+    font-weight: normal;
+}
+.mainHome p {
+    width: 70%;
+    text-align: center;
+    margin: 0;
+    font-size: 0.8rem;
+}
+/*RESPONSIVE*/
+
+@media only screen and (min-width: 450px) {
+    .Contenedor_foto {
+        width: 35%;
+    }
+    .mainHome p {
+        font-size: 1.2rem;
+    }
+}
+@media only screen and (min-width: 800px) {
+    .Contenedor_foto {
+        width: 30%;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .Contenedor_foto {
+        width: 20%;
+    }
+}
