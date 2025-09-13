@@ -14,7 +14,7 @@ const informacion_escrita = [
 ]
 export const all_iconos_for_Me = [
     {
-        direccion: './iconodePensar.png',
+        direccion: './IconodePensar.png',
         alt: 'icono de Pensamieneto'
     },
     {

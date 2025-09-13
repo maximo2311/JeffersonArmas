@@ -14,7 +14,10 @@ import ContactPage from './componentes/contact_page/Contact_Page';
       
       {<Route path='/projects' element={<ProjectsPage />} />}
     </Route>
-  ))
+  ),
+{
+  basename: '/JeffersonArmas',
+})
 
 function App() {
 
