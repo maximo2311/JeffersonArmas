@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JeffersonArmas/static/css/main.a114ad7f.css",
+    "main.js": "/JeffersonArmas/static/js/main.815bbbe2.js",
+    "static/js/453.2965a1bb.chunk.js": "/JeffersonArmas/static/js/453.2965a1bb.chunk.js",
+    "index.html": "/JeffersonArmas/index.html",
+    "main.a114ad7f.css.map": "/JeffersonArmas/static/css/main.a114ad7f.css.map",
+    "main.815bbbe2.js.map": "/JeffersonArmas/static/js/main.815bbbe2.js.map",
+    "453.2965a1bb.chunk.js.map": "/JeffersonArmas/static/js/453.2965a1bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a114ad7f.css",
+    "static/js/main.815bbbe2.js"
+  ]
+}
