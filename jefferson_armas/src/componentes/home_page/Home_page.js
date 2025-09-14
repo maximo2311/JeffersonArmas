@@ -5,7 +5,7 @@ const HomePage = () => {
         <main className='center mainHome'>
             <div className="Contenedor_foto center">
                 <img 
-                src='./JeffersonArmas/jeffersonArmas.jpg'
+                src='./jeffersonArmas.jpg'
                 alt="Retrato de Jefferson"
                 />
             </div>
