@@ -5,8 +5,10 @@ const MePage = () => {
     return (
         <section className="center Direccion_columna">
             <article className="center article_introduction margin">
-                <strong className="Strong_Inicio">J</strong>
-                <p className="posicion_Texto texto_introduccion">efferson is my name.<br/> Ever since I was a child, 
+                <strong translate="no" className="Strong_Inicio">J</strong>
+                <p className="posicion_Texto texto_introduccion">
+                    <div translate="no" style={{ display: 'contents' }} >efferson is my name!</div>
+                    <br/> Ever since I was a child, 
                     I’ve been fascinated by understanding how things work. 
                     That curiosity led me to explore the world of design and development, where I discovered that creating 
                     isn’t just about solving problems it’s also about telling stories.</p>

@@ -3,7 +3,7 @@ import './footerStyle.css';
 
 const Footer = () => {
     return(
-        <nav className='nav_footer center'  >
+        <nav className='nav_footer center' translate="no"  >
             <ul className="nav_list_footer">
                         <li className='contact_boton center'><NavLink to='/contact' className='boton_nav_footer center' >Contact</NavLink></li>
                         <li className='projects_boton center'><NavLink to='/projects' className='boton_nav_footer center'>Projects</NavLink></li>

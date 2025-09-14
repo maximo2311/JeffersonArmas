@@ -14,10 +14,10 @@ const Header = () => {
     return (
         <header className="center">
             <div className="container-del-Header">
-                <div className='logo-h'>
+                <div translate="no" className='logo-h'>
                     <h1><strong>J</strong>efferson Armas</h1>
                 </div>
-                <div className="container-Nav">
+                <div translate="no" className="container-Nav">
                     {/* BARRA DE NAVEGACION */}
                     <Nav boton={boton} />
                 </div>
