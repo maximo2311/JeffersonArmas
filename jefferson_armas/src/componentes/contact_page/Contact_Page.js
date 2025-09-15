@@ -10,7 +10,7 @@ const ContactPage = () => {
                 alt="Retrato de Jefferson"
                 />
             </div>
-            <h2>Contact</h2>
+            <h2>contact</h2>
             <div className="center ">
                 {iconos_constacto.map( info_imagenes => {
                     return (

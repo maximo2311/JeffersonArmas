@@ -4,7 +4,7 @@ import './projectStyle.css'
 const ProjectsPage = () => {
     return (
         <section className="center projects_section">
-            <h2>Projects</h2>
+            <h2>projects</h2>
             <article className="margin">
                 {informacion_projects.map( datos => {
                     const grupo_iconos = datos.contenido_Proyecto.tecnologias
@@ -18,7 +18,7 @@ const ProjectsPage = () => {
                                         <p>{datos.contenido_Proyecto.desccripcion}</p>
                                     </div>
                                     <div className="contenedor_datos center linea_divisora">
-                                        <h4>tecnologies</h4>
+                                        <h4>technologies</h4>
                                         <div className="center contenedor_contenedores_iconos">
                                             {grupo_iconos.map( iconos => {
                                                 return (

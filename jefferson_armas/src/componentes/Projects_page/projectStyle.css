@@ -39,6 +39,7 @@
     margin: 0;
     width: 80%;
     text-align: center;
+    font-size: 70%;
 }
 .contenedor_contenedores_iconos {
     flex-wrap: wrap;

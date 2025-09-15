@@ -51,7 +51,7 @@ export const informacion_projects = [
     {
         nombre_Proyecto: 'Beirut | El Mago',
         contenido_Proyecto: {
-            desccripcion: 'La pagina del mago Beirut es las mas magica de todas',
+            desccripcion: 'La pagina del mago Beirut es una página de presentación con una estética elegante, familiar y creativa, diseñada para introducir al mago Beirut y sus servicios.',
             tecnologias: [
                 {
                     direccion_icono: './logo192.png',
